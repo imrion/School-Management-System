@@ -1,6 +1,5 @@
 # School-Management-System
 
-# XYZ School Management System
 
 This is a **console-based School Management System** developed in Python.  
 It allows users to **add students, enroll them in courses, and view all student information**.  
